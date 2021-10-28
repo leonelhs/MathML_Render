@@ -1,0 +1,6 @@
+#ifndef MMLTABLEBASENODE_CPP
+#define MMLTABLEBASENODE_CPP
+
+//#include "MmlTableBaseNode.h"
+
+#endif//MMLTABLEBASENODE_CPP

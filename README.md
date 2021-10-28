@@ -1,2 +1,2 @@
-# MathML_Render
-Refurbished MathML Render QtMmlWidget 5 over Qt 6.2.0  
+# MathML Render
+Refurbished MathML Render QtMmlWidget 4 over Qt 6.2.0  
