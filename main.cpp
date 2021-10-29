@@ -6,7 +6,6 @@
 
 int main(int argc, char *argv[])
 {
-    QScreen* screen = QGuiApplication::primaryScreen();
 
     QApplication a(argc, argv);
 
