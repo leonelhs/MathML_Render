@@ -2,7 +2,7 @@
 #define MMLNODESPEC_H
 
 #include <QString>
-#include "Nodes/Mml.h"
+#include "Mml.h"
 
 struct MmlNodeSpec
 {

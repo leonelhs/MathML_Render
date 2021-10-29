@@ -2,7 +2,7 @@
 #define MMLOPERSPEC_H
 
 #include <QString>
-#include "Nodes/Mml.h"
+#include "Mml.h"
 
 static const double   g_mfrac_spacing          = 0.05;
 static const double   g_mroot_base_margin      = 0.1;

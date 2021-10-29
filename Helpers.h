@@ -1,8 +1,8 @@
 #ifndef HELPERS_H
 #define HELPERS_H
 
-#include "Nodes/Mml.h"
-#include "Nodes/MmlNode.h"
+#include "Mml.h"
+#include "MmlNode.h"
 #include "MmlNodeSpec.h"
 #include "MmlOperSpec.h"
 #include "MmlEntityTable.h"

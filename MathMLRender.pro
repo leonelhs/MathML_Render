@@ -10,25 +10,25 @@ SOURCES += \
         MmlNodeSpec.cpp \
         OperSpecSearchResult.cpp \
         main.cpp \
-        Nodes/MmlNode.cpp \
-        Nodes/MmlTokenNode.cpp \
-        Nodes/MmlRootBaseNode.cpp \
-        Nodes/MmlSpacingNode.cpp \
-        Nodes/MmlSubsupBaseNode.cpp \
-        Nodes/MmlTableBaseNode.cpp \
-        Nodes/XmlNodes/MmlTextNode.cpp \
-        Nodes/XmlNodes/MmlMtdNode.cpp \
-        Nodes/XmlNodes/MmlMsubNode.cpp \
-        Nodes/XmlNodes/MmlMsupNode.cpp \
-        Nodes/XmlNodes/MmlMfracNode.cpp \
-        Nodes/XmlNodes/MmlMoverNode.cpp \
-        Nodes/XmlNodes/MmlMtableNode.cpp \
-        Nodes/XmlNodes/MmlMunderNode.cpp \
-        Nodes/XmlNodes/MmlMpaddedNode.cpp \
-        Nodes/XmlNodes/MmlMsubsupNode.cpp \
-        Nodes/XmlNodes/MmlMunderoverNode.cpp \
-        Nodes/XmlNodes/MmlMtrNode.cpp \
-        Nodes/XmlNodes/MmlMoNode.cpp
+        MmlNode.cpp \
+        MmlTokenNode.cpp \
+        MmlRootBaseNode.cpp \
+        MmlSpacingNode.cpp \
+        MmlSubsupBaseNode.cpp \
+        MmlTableBaseNode.cpp \
+        MmlTextNode.cpp \
+        MmlMtdNode.cpp \
+        MmlMsubNode.cpp \
+        MmlMsupNode.cpp \
+        MmlMfracNode.cpp \
+        MmlMoverNode.cpp \
+        MmlMtableNode.cpp \
+        MmlMunderNode.cpp \
+        MmlMpaddedNode.cpp \
+        MmlMsubsupNode.cpp \
+        MmlMunderoverNode.cpp \
+        MmlMtrNode.cpp \
+        MmlMoNode.cpp
 
 HEADERS += \
         Device.h \
@@ -39,39 +39,39 @@ HEADERS += \
         MmlNodeSpec.h \
         MmlOperSpec.h \
         OperSpecSearchResult.h \
-        Nodes/Mml.h \
-        Nodes/MmlNode.h \
-        Nodes/MmlRootBaseNode.h \
-        Nodes/MmlSpacingNode.h \
-        Nodes/MmlSubsupBaseNode.h \
-        Nodes/MmlTableBaseNode.h \
-        Nodes/MmlTokenNode.h \
-        Nodes/XmlNodes/MmlMfracNode.h \
-        Nodes/XmlNodes/MmlMiNode.h \
-        Nodes/XmlNodes/MmlMnNode.h \
-        Nodes/XmlNodes/MmlMrowNode.h \
-        Nodes/XmlNodes/MmlMsqrtNode.h \
-        Nodes/XmlNodes/MmlMrootNode.h \
-        Nodes/XmlNodes/MmlMsupNode.h \
-        Nodes/XmlNodes/MmlMsubNode.h \
-        Nodes/XmlNodes/MmlMsubsupNode.h \
-        Nodes/XmlNodes/MmlMoNode.h \
-        Nodes/XmlNodes/MmlMstyleNode.h \
-        Nodes/XmlNodes/MmlTextNode.h \
-        Nodes/XmlNodes/MmlMphantomNode.h \
-        Nodes/XmlNodes/MmlMfencedNode.h \
-        Nodes/XmlNodes/MmlMtableNode.h \
-        Nodes/XmlNodes/MmlMtrNode.h \
-        Nodes/XmlNodes/MmlMtdNode.h \
-        Nodes/XmlNodes/MmlMoverNode.h \
-        Nodes/XmlNodes/MmlMunderNode.h \
-        Nodes/XmlNodes/MmlMunderoverNode.h \
-        Nodes/XmlNodes/MmlMalignMarkNode.h \
-        Nodes/XmlNodes/MmlMerrorNode.h \
-        Nodes/XmlNodes/MmlMtextNode.h \
-        Nodes/XmlNodes/MmlMpaddedNode.h \
-        Nodes/XmlNodes/MmlMspaceNode.h \
-        Nodes/XmlNodes/MmlUnknownNode.h
+        Mml.h \
+        MmlNode.h \
+        MmlRootBaseNode.h \
+        MmlSpacingNode.h \
+        MmlSubsupBaseNode.h \
+        MmlTableBaseNode.h \
+        MmlTokenNode.h \
+        MmlMfracNode.h \
+        MmlMiNode.h \
+        MmlMnNode.h \
+        MmlMrowNode.h \
+        MmlMsqrtNode.h \
+        MmlMrootNode.h \
+        MmlMsupNode.h \
+        MmlMsubNode.h \
+        MmlMsubsupNode.h \
+        MmlMoNode.h \
+        MmlMstyleNode.h \
+        MmlTextNode.h \
+        MmlMphantomNode.h \
+        MmlMfencedNode.h \
+        MmlMtableNode.h \
+        MmlMtrNode.h \
+        MmlMtdNode.h \
+        MmlMoverNode.h \
+        MmlMunderNode.h \
+        MmlMunderoverNode.h \
+        MmlMalignMarkNode.h \
+        MmlMerrorNode.h \
+        MmlMtextNode.h \
+        MmlMpaddedNode.h \
+        MmlMspaceNode.h \
+        MmlUnknownNode.h
 
 
 

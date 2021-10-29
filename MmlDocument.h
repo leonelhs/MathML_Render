@@ -1,8 +1,8 @@
 #ifndef MMLDOCUMENT_H
 #define MMLDOCUMENT_H
 
-#include "Nodes/Mml.h"
-#include "Nodes/MmlNode.h"
+#include "Mml.h"
+#include "MmlNode.h"
 #include "MmlFont.h"
 
 #include <QDomDocument>
